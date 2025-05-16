@@ -2076,6 +2076,7 @@ main_menu() {
 		exit
 
 	elif [ "$num" = 0 ]; then
+ 		ash
 		exit
 
 	elif [ "$num" = 1 ]; then
